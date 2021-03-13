@@ -3,6 +3,7 @@
 <h3 align="center">
   Desafio 02: Trabalhando com middlewares
 </h3>
+<img src="public/challenge.jpg" alt="challenge" />
 
 ## :rocket: Sobre o desafio
 
